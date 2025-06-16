@@ -3,7 +3,7 @@
 ## Анализ производительности:
 corePoolSize=2, maximumPoolSize=4, keepAliveTime=5, queueSize=5.
 1. Стандартный ThreadPool.
-<br/>
+   <br/>
    ✅ Total Tasks: 10000
    <br/>
    ❌ Rejected Tasks: 1991
@@ -11,8 +11,7 @@ corePoolSize=2, maximumPoolSize=4, keepAliveTime=5, queueSize=5.
    ⚡ Throughput: 490,70 tasks/sec
    <br/>
    ⏳ Total time: 20379 ms
-<br/>
-<br/>
+
 2. Кастомный ThreadPool.
       <br/>
       ✅ Total Tasks: 10000

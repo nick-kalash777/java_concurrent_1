@@ -193,6 +193,6 @@ public class CustomExecutorImpl implements CustomExecutor {
     }
 
     private void log(String msg) {
-        //System.out.println(msg);
+        System.out.println(msg);
     }
 }
